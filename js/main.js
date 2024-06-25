@@ -1,5 +1,5 @@
 $( document ).ready(function() {
-    $('#btn').click(function() {
+    $('#button').click(function() {
         window.alert("Meow!");
     });
 });
